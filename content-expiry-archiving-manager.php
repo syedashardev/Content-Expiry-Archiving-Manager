@@ -2,6 +2,8 @@
 /**
  * Plugin Name: Content Expiry & Archiving Manager
  * Description: Manage the expiry and archiving of WordPress content with automatic actions and notifications.
+ * License: GPL-2.0-or-later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Version: 1.0
  * Author: syedashardev
  * Text Domain: https://afashah.com
